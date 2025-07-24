@@ -39,5 +39,7 @@ I am passionate about data and technology, always looking for ways to apply anal
 ---
 
 📫 **Liên hệ:**  
+
 [![Gmail](https://img.shields.io/badge/Gmail-nganhoanghuy2k4@gmail.com-red?style=flat-square&logo=gmail)](mailto:nganhoanghuy2k4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kết nối-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/huy-ngan/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kết nối-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-ngan/)
+
