@@ -1,4 +1,4 @@
-### 👋 Xin chào! Mình là **Huy Ngan**
+### 👋 Hello! I'm **Huy Ngan**
 
 💼 *Data Analyst | Business Intelligence | Digital Enthusiast*
 
@@ -8,28 +8,27 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Data Animation"/>
 </p>
 
-Mình đam mê dữ liệu và công nghệ, luôn tìm cách ứng dụng phân tích vào các bài toán kinh doanh và thị trường tài chính.
-
+I am passionate about data and technology, always looking for ways to apply analysis to business problems and financial markets.
 ---
 
 ### 🛠️ Công cụ và ngôn ngữ sử dụng:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
 
-### ☕ Sở thích cá nhân
+###  Personal preference
 
-- Uống cà phê vào sáng sớm ☕  
-- Giao dịch chứng khoán và theo dõi biểu đồ giá 📈  
-- Tìm hiểu về trí tuệ nhân tạo và khoa học dữ liệu 🤖  
+- Coffee
+- Trading 📈  
+- Data &  🤖  
 
 ---
 
